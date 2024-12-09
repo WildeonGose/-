@@ -22,3 +22,5 @@
 
 ## Лицензия
 Этот проект лицензирован под лицензией MIT.
+"## New Section" 
+"This is a new section added for the task." 
